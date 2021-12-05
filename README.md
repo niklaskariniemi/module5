@@ -2,7 +2,6 @@ Using RLE compression and decompression the program takes a string and either co
 
 The program uses argv so to use it you need to include the string after you the call the program. An example would be python3 rle.py string.rle. That is what you would enter if using the program in linux.
 
-Where can users help the project
+People looking to help with the project can leave suggestions/edits in the contribute file located in the repository.
 
-
-Who maintains and contributes to the project
+Niklas Kariniemi maintains the project. You can email him at niklas@example.com with any questions or suggestions.
